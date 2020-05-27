@@ -1,0 +1,2381 @@
+{
+    "zone": "21",
+    "network": "1",
+    "node": "10",
+    "nodeName": "fsxNet Games + Usenet Gateway",
+    "location": "Dunedin NZL",
+    "sysopName": "Paul Hayton",
+    "INA": "agency.bbs.nz",
+    "IBN": "24557",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "100",
+    "nodeName": "Risa HUB",
+    "location": "Dunedin NZL",
+    "sysopName": "Paul Hayton",
+    "INA": "agency.bbs.nz",
+    "IBN": "24556",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "101",
+    "nodeName": "Agency BBS",
+    "location": "Dunedin NZL",
+    "sysopName": "Paul Hayton",
+    "INA": "ipv4.agency.bbs.nz",
+    "IBN": "24555",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "102",
+    "nodeName": "Error 404 BBS",
+    "location": "Perrysburg USA",
+    "sysopName": "Todd Zieman",
+    "INA": "error404bbs.ddns.net",
+    "IBN": "null",
+    "ITN": "404"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "104",
+    "nodeName": "Shenk's Express BBS",
+    "location": "Virginia Beach USA",
+    "sysopName": "Carol Shenkenberger",
+    "INA": "shenks.dyndns.org",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "105",
+    "nodeName": "Fluph BBS",
+    "location": "Elkview USA",
+    "sysopName": "Leslie Given",
+    "INA": "fluph.zapto.org",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "106",
+    "nodeName": "BlackICE BBS",
+    "location": "Duesseldorf GER",
+    "sysopName": "Vitus Zeel",
+    "INA": "blackice.bbsindex.de",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "107",
+    "nodeName": "The ByteXchange BBS",
+    "location": "Lindale USA",
+    "sysopName": "Chad Adams",
+    "INA": "bbs.thebytexchange.com",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "109",
+    "nodeName": "Freeway BBS",
+    "location": "Bendigo AUS",
+    "sysopName": "Tony Langdon",
+    "INA": "freeway.vkradio.com",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "110",
+    "nodeName": "AmigaXess",
+    "location": "Georgsmarienhuette GER",
+    "sysopName": "Ingo Juergensmann",
+    "INA": "ftn.amigaxess.de",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "111",
+    "nodeName": "Another Droid BBS",
+    "location": "Athens GRC",
+    "sysopName": "Andreas Apostolou",
+    "INA": "andr01d.zapto.org",
+    "IBN": "null",
+    "ITN": "9999"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "112",
+    "nodeName": "Black Flag BBS",
+    "location": "Hudson USA",
+    "sysopName": "Hawk Hubbard",
+    "INA": "blackflag.acid.org",
+    "IBN": "null",
+    "ITN": "28"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "114",
+    "nodeName": "Throwback BBS",
+    "location": "Meriden USA",
+    "sysopName": "Todd Yatzook",
+    "INA": "bbs.throwbackbbs.com",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "115",
+    "nodeName": "1st Choice Core BBS",
+    "location": "Ashburton NZL",
+    "sysopName": "Ian Segers",
+    "INA": "1stchoicecore.co.nz",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "117",
+    "nodeName": "Mystic Dreams BBS",
+    "location": "Warminster USA",
+    "sysopName": "Mark Iezzi",
+    "INA": "mysticdreams.dyndns.org",
+    "IBN": "24555",
+    "ITN": "24"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "118",
+    "nodeName": "Crystal Peak BBS",
+    "location": "Pine City USA",
+    "sysopName": "Will Du Chene",
+    "INA": "crystalp.duckdns.org",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "119",
+    "nodeName": "Sysgod BBS",
+    "location": "Sydney AUS",
+    "sysopName": "Scott Little",
+    "INA": "ftn.sysgod.org",
+    "IBN": "null",
+    "ITN": "60177"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "120",
+    "nodeName": "Cyberia BBS",
+    "location": "Kingwood USA",
+    "sysopName": "Darryl Perry",
+    "INA": "cyberiabbs.zapto.org",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "121",
+    "nodeName": "Xibalba BBS",
+    "location": "Salt Lake City USA",
+    "sysopName": "Bryan Ashby",
+    "INA": "xibalba.l33t.codes",
+    "IBN": "54554",
+    "ITN": "44510"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "122",
+    "nodeName": "Necronomicon BBS",
+    "location": "New Bedford USA",
+    "sysopName": "Carlos Roldan",
+    "INA": "necrobbs.strangled.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "123",
+    "nodeName": "Thiaramus Den",
+    "location": "Brooklyn USA",
+    "sysopName": "Roman Litvinenko",
+    "INA": "thiaramus.fsxnet.nz",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "124",
+    "nodeName": "apernevan.tk BBS",
+    "location": "Arad ROU",
+    "sysopName": "Andrei Pernevan",
+    "INA": "apernevan.tk",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "125",
+    "nodeName": "CrNet BBS",
+    "location": "Saint James USA",
+    "sysopName": "John Gonzales",
+    "INA": "bbs.crnet.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "126",
+    "nodeName": "HappyLand BBS",
+    "location": "Toowoomba AUS",
+    "sysopName": "Andrew Pamment",
+    "INA": "magickabbs.com",
+    "IBN": "null",
+    "ITN": "2023"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "127",
+    "nodeName": "Capital Station BBS",
+    "location": "Nassau USA",
+    "sysopName": "Gregory Deyss",
+    "INA": "csbbs.dyndns.org",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "128",
+    "nodeName": "The OuijaBoard BBS",
+    "location": "Anoka USA",
+    "sysopName": "Jeff Smith",
+    "INA": "bbs.ouijabrd.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "129",
+    "nodeName": "SpaceSST BBS",
+    "location": "Montreal CAN",
+    "sysopName": "Luc McCarragher",
+    "INA": "mccarragher.org",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "130",
+    "nodeName": "Tiny's BBS",
+    "location": "Oshawa CAN",
+    "sysopName": "Shawn Highfield",
+    "INA": "tinysbbs.com",
+    "IBN": "null",
+    "ITN": "3023"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "131",
+    "nodeName": "Weather Station HUB",
+    "location": "Bel Air USA",
+    "sysopName": "Mark Hofmann",
+    "INA": "bbs.weather-station.org",
+    "IBN": "24555",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "132",
+    "nodeName": "Weather Station WWIV BBS",
+    "location": "Bel Air USA",
+    "sysopName": "Mark Hofmann",
+    "INA": "bbs.weather-station.org",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "133",
+    "nodeName": "The Parity Error BBS",
+    "location": "Kelowna CAN",
+    "sysopName": "Ian McLaughlin",
+    "INA": "theparityerror.com",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "134",
+    "nodeName": "Mystic Prison Board BBS",
+    "location": "Mesquite USA",
+    "sysopName": "Ruben Figueroa",
+    "INA": "pbmystic.rdfig.net",
+    "IBN": "24555",
+    "ITN": "24"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "135",
+    "nodeName": "Return to The Lair of the Wolverine BBS",
+    "location": "Salt Lake City USA",
+    "sysopName": "Kevin Taylor",
+    "INA": "bbs.r2lotw.com",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "136",
+    "nodeName": "force9 BBS",
+    "location": "London GBR",
+    "sysopName": "David Stephens",
+    "INA": "bbs.force9.org",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "137",
+    "nodeName": "Digital Distortion BBS",
+    "location": "Hillsboro USA",
+    "sysopName": "Eric Oulashin",
+    "INA": "digdist.synchro.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "138",
+    "nodeName": "Electronic Warfare BBS",
+    "location": "Vincennes USA",
+    "sysopName": "Nicholas Loch",
+    "INA": "bbs.ewbbs.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "140",
+    "nodeName": "Daves BBS",
+    "location": "Marbury USA",
+    "sysopName": "David Smith",
+    "INA": "davesbbs.com",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "141",
+    "nodeName": "Pie33 BBS",
+    "location": "Amsterdam NLD",
+    "sysopName": "Moises Aranas",
+    "INA": "pie33.com",
+    "IBN": "null",
+    "ITN": "2223"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "143",
+    "nodeName": "The Bridge BBS",
+    "location": "Bendigo AUS",
+    "sysopName": "Tony Langdon",
+    "INA": "bridge.vkradio.com",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "144",
+    "nodeName": "PBBS WHQ Support",
+    "location": "Richmond USA",
+    "sysopName": "Ozz Nixon",
+    "INA": "exchangebbs.com",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "145",
+    "nodeName": "Mystic Pi BBS",
+    "location": "Nashua USA",
+    "sysopName": "Brian Wallace",
+    "INA": "bcw142.zapto.org",
+    "IBN": "24556",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "146",
+    "nodeName": "Saturn's Orbit BBS",
+    "location": "Rio de Janeiro BRA",
+    "sysopName": "Flavio Bessa",
+    "INA": "saturnsorbit.hopto.org",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "147",
+    "nodeName": "The Comm's Nut BBS",
+    "location": "Gagebrook AUS",
+    "sysopName": "Danny Moss",
+    "INA": "tcnbbs.fsxnet.nz",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "148",
+    "nodeName": "Coco BBS",
+    "location": "San Jose CRI",
+    "sysopName": "Luis Marin",
+    "INA": "cocosbbs.fsxnet.nz",
+    "IBN": "null",
+    "ITN": "50600"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "149",
+    "nodeName": "Xionum BBS",
+    "location": "Belgershain GER",
+    "sysopName": "Martin Aue",
+    "INA": "server.xionum.de",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "152",
+    "nodeName": "2nd Choice Core BBS",
+    "location": "Ashburton NZL",
+    "sysopName": "Ian Segers",
+    "INA": "2ndchoicecore.nz",
+    "IBN": "24555",
+    "ITN": "1024"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "154",
+    "nodeName": "Raiders Inc BBS",
+    "location": "Wichita USA",
+    "sysopName": "Jon Justvig",
+    "INA": "vintagebbsing.com",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "155",
+    "nodeName": "Haciend BBS",
+    "location": "Helsinki FIN",
+    "sysopName": "Antti Kiuru",
+    "INA": "haciend.com",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "156",
+    "nodeName": "Central Ontario Remote BBS",
+    "location": "Campbellford CAN",
+    "sysopName": "Mike Manning",
+    "INA": "oxfordmi.synchro.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "157",
+    "nodeName": "Shadowscope BBS",
+    "location": "Temple USA",
+    "sysopName": "Richard Miles",
+    "INA": "bbs.shadowscope.com",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "158",
+    "nodeName": "The Quantum Wormhole BBS",
+    "location": "Ramsgate GBR",
+    "sysopName": "Christian Sacks",
+    "INA": "bbs.erb.pw",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "159",
+    "nodeName": "The GateHouse BBS",
+    "location": "Hockley Valley CAN",
+    "sysopName": "John Riley",
+    "INA": "bbs.digitalgatehouse.com",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "160",
+    "nodeName": "Slime City BBS",
+    "location": "Ahus SWE",
+    "sysopName": "David Jacoby",
+    "INA": "bbs.retrohack.se",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "161",
+    "nodeName": "The Search BBS",
+    "location": "Goshen USA",
+    "sysopName": "Karl Harris",
+    "INA": "searchbbs.fsxnet.nz",
+    "IBN": "null",
+    "ITN": "34123"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "162",
+    "nodeName": "Razors Domain 3.141592 BBS",
+    "location": "McAllen USA",
+    "sysopName": "Kevin Nunn",
+    "INA": "bbs.razorsdomain.com",
+    "IBN": "null",
+    "ITN": "31415"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "163",
+    "nodeName": "Dreamland BBS",
+    "location": "North Hollywood USA",
+    "sysopName": "Tony Master",
+    "INA": "bbs.dreamlandbbs.org",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "164",
+    "nodeName": "Electronic Chicken BBS",
+    "location": "Toronto CAN",
+    "sysopName": "Derek Mullin",
+    "INA": "bbs.electronicchicken.com",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "165",
+    "nodeName": "The Underground BBS",
+    "location": "Carmel USA",
+    "sysopName": "Doug Cooper",
+    "INA": "theunderground.us",
+    "IBN": "null",
+    "ITN": "10023"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "166",
+    "nodeName": "Datanet BBS",
+    "location": "Melbourne AUS",
+    "sysopName": "Steve Ellis",
+    "INA": "datanetbbs.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "167",
+    "nodeName": "Nitemare Cafe BBS",
+    "location": "Cardington USA",
+    "sysopName": "Rod Barnhart",
+    "INA": "bbs.nitemarecafe.com",
+    "IBN": "null",
+    "ITN": "2002"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "168",
+    "nodeName": "Monterey BBS",
+    "location": "San Franciso USA",
+    "sysopName": "Ryan Fantus",
+    "INA": "montereybbs.com",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "169",
+    "nodeName": "Sinner's Haven BBS",
+    "location": "Dothan USA",
+    "sysopName": "Karl Kunc",
+    "INA": "bbs.sinnershaven.com",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "170",
+    "nodeName": "Weather Station Mystic BBS",
+    "location": "Bel Air USA",
+    "sysopName": "Mark Hofmann",
+    "INA": "bbs.weather-station.org",
+    "IBN": "24557",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "172",
+    "nodeName": "The Bottomless Abyss BBS",
+    "location": "Quebec City CAN",
+    "sysopName": "Dave Cloutier",
+    "INA": "bbs.bottomlessabyss.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "173",
+    "nodeName": "Sinclair Retro BBS",
+    "location": "San Giorgio di Mantova ITA",
+    "sysopName": "Simone Voltolini",
+    "INA": "retrobbs.sinclair.homepc.it",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "174",
+    "nodeName": "The Zone BBS",
+    "location": "Lorain USA",
+    "sysopName": "Mike Warnock",
+    "INA": "zonebbs.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "175",
+    "nodeName": "Capitol City Online BBS",
+    "location": "Frankfort USA",
+    "sysopName": "Mike Powell",
+    "INA": "capitolcityonline.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "176",
+    "nodeName": "Darkrealms BBS",
+    "location": "Toronto CAN",
+    "sysopName": "Nick Andre",
+    "INA": "bbs.darkrealms.ca",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "177",
+    "nodeName": "Dali's Cat BBS",
+    "location": "Chicago USA",
+    "sysopName": "Ismar Hasanbegovic",
+    "INA": "daliscat.synchro.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "178",
+    "nodeName": "Internal Dimension BBS",
+    "location": "Ontario CAN",
+    "sysopName": "Dave Vandermeer",
+    "INA": "id-bbs.ddns.net",
+    "IBN": "null",
+    "ITN": "59"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "181",
+    "nodeName": "Ninho do Abutre 2 BBS",
+    "location": "Rio de Janeiro BRA",
+    "sysopName": "Mauro Veiga",
+    "INA": "abutre.no-ip.org",
+    "IBN": "null",
+    "ITN": "2323"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "182",
+    "nodeName": "The Colossus BBS",
+    "location": "Provo USA",
+    "sysopName": "Jordan McGilvray",
+    "INA": "bbs.excalibursheath.com",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "183",
+    "nodeName": "Vertrauen BBS",
+    "location": "Norco USA",
+    "sysopName": "Rob Swindell",
+    "INA": "vert.synchro.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "184",
+    "nodeName": "Echo Base BBS",
+    "location": "Perry USA",
+    "sysopName": "Jeff Jun",
+    "INA": "telnet.echo-base-bbs.com",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "185",
+    "nodeName": "Immortal's Domain BBS",
+    "location": "Pleasant Grove USA",
+    "sysopName": "Steve Helferich",
+    "INA": "idomain.synchro.net",
+    "IBN": "null",
+    "ITN": "2400"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "186",
+    "nodeName": "Castle Rock BBS",
+    "location": "Rio Rancho USA",
+    "sysopName": "Dan Richter",
+    "INA": "bbs.castlerockbbs.com",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "187",
+    "nodeName": "Cosmik Debris BBS",
+    "location": "Little Falls USA",
+    "sysopName": "Andrew Pepper",
+    "INA": "cosmikdebris.ddns.net",
+    "IBN": "24556",
+    "ITN": "2323"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "189",
+    "nodeName": "The Virtual Terminal BBS",
+    "location": "Belleville USA",
+    "sysopName": "Joseph Werle",
+    "INA": "bbs.kernelerror.com",
+    "IBN": "null",
+    "ITN": "10023"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "190",
+    "nodeName": "Abacus BBS",
+    "location": "Portland USA",
+    "sysopName": "Rick Smith",
+    "INA": "bbs.abon.us",
+    "IBN": "null",
+    "ITN": "2323"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "191",
+    "nodeName": "Slasho.me BBS",
+    "location": "Pikeville USA",
+    "sysopName": "Christopher Hall",
+    "INA": "slasho.me",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "192",
+    "nodeName": "A 90s Manila BBS",
+    "location": "Singapore SGP",
+    "sysopName": "Michael Balcos",
+    "INA": "bbs.balcos.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "193",
+    "nodeName": "Darkstar BBS",
+    "location": "Vienna AUT",
+    "sysopName": "Alexander Winkler",
+    "INA": "darkstar.bmxjo.org",
+    "IBN": "24556",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "194",
+    "nodeName": "Diamond Mine Online BBS",
+    "location": "Fredericksburg USA",
+    "sysopName": "David Perrussel",
+    "INA": "bbs.dmine.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "195",
+    "nodeName": "Dragon's Claw HUB",
+    "location": "Melbourne AUS",
+    "sysopName": "Stephen Walsh",
+    "INA": "ftn.vk3heg.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "196",
+    "nodeName": "Dragon's Lair BBS",
+    "location": "Ballarat AUS",
+    "sysopName": "Stephen Walsh",
+    "INA": "dragon.vk3heg.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "198",
+    "nodeName": "The Fat Dragon",
+    "location": "New York USA",
+    "sysopName": "Dan Cross",
+    "INA": "trunk.fat-dragon.org",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "199",
+    "nodeName": "Clutch BBS",
+    "location": "Ontario CAN",
+    "sysopName": "Mark Stark",
+    "INA": "bbs.clutchbbs.com",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "201",
+    "nodeName": "Decker's Heaven BBS",
+    "location": "Gainesville USA",
+    "sysopName": "Eric Renfro",
+    "INA": "bbs.deckersheaven.com",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "202",
+    "nodeName": "Star Collision BBS",
+    "location": "Uppsala SWE",
+    "sysopName": "Bjorn Wiberg",
+    "INA": "scbbs.nsupdate.info",
+    "IBN": "null",
+    "ITN": "60177"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "203",
+    "nodeName": "Rocket Town BBS",
+    "location": "Titusville USA",
+    "sysopName": "Ricky DeLuco",
+    "INA": "rtbbs.ddns.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "204",
+    "nodeName": "Family BBS",
+    "location": "Auckland NZL",
+    "sysopName": "Tony Pawson",
+    "INA": "familybbs.ddns.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "207",
+    "nodeName": "Argen X BBS",
+    "location": "Tortuguitas ARG",
+    "sysopName": "Eduardo Castillo",
+    "INA": "sysop.kozow.com",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "208",
+    "nodeName": "S W A T S BBS",
+    "location": "Auckland NZL",
+    "sysopName": "Stephen Hunt",
+    "INA": "swatsbbs.ddns.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "209",
+    "nodeName": "LU8FJH BBS",
+    "location": "Rosario ARG",
+    "sysopName": "Juan Musso",
+    "INA": "lu8fjh.dyndns.org",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "1",
+    "node": "210",
+    "nodeName": "Digital Jackalope BBS",
+    "location": "Toronto CAN",
+    "sysopName": "Daria Juniper",
+    "INA": "bbs.jackalope.pw",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "100",
+    "nodeName": "Tholian HUB",
+    "location": "Perrysburg USA",
+    "sysopName": "Todd Zieman",
+    "INA": "error404bbs.ddns.net",
+    "IBN": "24555",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "101",
+    "nodeName": "End Of The Line BBS",
+    "location": "Plano USA",
+    "sysopName": "Nigel Reed",
+    "INA": "endofthelinebbs.com",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "102",
+    "nodeName": "Flynn's Arcade BBS",
+    "location": "Ceder Springs USA",
+    "sysopName": "Rich Webb",
+    "INA": "bbs.webbhq.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "103",
+    "nodeName": "Resistance Pride BBS",
+    "location": "Pittsboro USA",
+    "sysopName": "Kevin Sonney",
+    "INA": "resistancepride.sytes.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "104",
+    "nodeName": "Vger Cloud BBS",
+    "location": "Torrance USA",
+    "sysopName": "Bradley Thornton",
+    "INA": "vger.fsxnet.nz",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "105",
+    "nodeName": "The New Frontier 2 BBS",
+    "location": "Akron USA",
+    "sysopName": "Charles Stephenson",
+    "INA": "frontierbbs.net",
+    "IBN": "24556",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "106",
+    "nodeName": "NeoCincinnati BBS",
+    "location": "Cincinnati USA",
+    "sysopName": "Nikki Jenks",
+    "INA": "neocinci.bbs.io",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "107",
+    "nodeName": "The Northern Borderlands BBS",
+    "location": "Sacramento USA",
+    "sysopName": "Jack Palmer Jr",
+    "INA": "northernborderlands.ddns.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "108",
+    "nodeName": "Storm BBS",
+    "location": "Los Altos USA",
+    "sysopName": "April Monoceros",
+    "INA": "telnet.stormbbs.com",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "109",
+    "nodeName": "Nexus Computers BBS",
+    "location": "Gold Coast AUS",
+    "sysopName": "Manu Ngamotu",
+    "INA": "bbs.nexuscomputers.com.au",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "110",
+    "nodeName": "Ink Two BBS",
+    "location": "Covina USA",
+    "sysopName": "Lawrence Manuel",
+    "INA": "bbs.inktwo.com",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "111",
+    "nodeName": "Leisure Time BBS",
+    "location": "New Baden USA",
+    "sysopName": "Robert Riddell",
+    "INA": "bbs.riddells.net",
+    "IBN": "null",
+    "ITN": "10023"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "112",
+    "nodeName": "Drakefire BBS",
+    "location": "Kingswood USA",
+    "sysopName": "Jake Parks",
+    "INA": "bbs.drakefire.com",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "113",
+    "nodeName": "PHATstar RetroBOX BBS",
+    "location": "Toronto CAN",
+    "sysopName": "Matthew Smith",
+    "INA": "echo.phatstar.org",
+    "IBN": "7000",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "114",
+    "nodeName": "Freeside BBS",
+    "location": "Monroe USA",
+    "sysopName": "Marty Taylor",
+    "INA": "freeside.bbs.io",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "115",
+    "nodeName": "Mystic Rhythms BBS",
+    "location": "San Francisco USA",
+    "sysopName": "Rob Cole",
+    "INA": "mystic.wwivbbs.org",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "116",
+    "nodeName": "Chinwag BBS",
+    "location": "Parkdale AUS",
+    "sysopName": "Deon George",
+    "INA": "alterant.leenooks.net",
+    "IBN": "24564",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "118",
+    "nodeName": "SmokyThing BBS",
+    "location": "San Antonio USA",
+    "sysopName": "Shannon Kuchler",
+    "INA": "inflecto.org",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "119",
+    "nodeName": "Temple of Doom BBS",
+    "location": "Anderson USA",
+    "sysopName": "Kris Jones",
+    "INA": "tod.eothnet.com",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "123",
+    "nodeName": "Deadbeatz BBS",
+    "location": "Albuquerque USA",
+    "sysopName": "Tim Blada",
+    "INA": "deadbeatz.org",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "125",
+    "nodeName": "Fishingnet BBS",
+    "location": "Toronto CAN",
+    "sysopName": "Matthew Smith",
+    "INA": "fishingnet.phatstar.org",
+    "IBN": "null",
+    "ITN": "7777"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "126",
+    "nodeName": "Rust Belt BBS",
+    "location": "Rochester USA",
+    "sysopName": "Kevin Miller",
+    "INA": "rbbbs.mtonetwork.com",
+    "IBN": "24555",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "127",
+    "nodeName": "Battlestar BBS",
+    "location": "Warminster USA",
+    "sysopName": "Mark Iezzi",
+    "INA": "battlestarbbs.dyndns.org",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "128",
+    "nodeName": "The Dragon's Den",
+    "location": "Forest Hill USA",
+    "sysopName": "Al Miller",
+    "INA": "merlock.org",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "129",
+    "nodeName": "Risky Business BBS",
+    "location": "Sudbury CAN",
+    "sysopName": "Roger Ouimette",
+    "INA": "riskybusiness.hopto.org",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "130",
+    "nodeName": "Delta City BBS",
+    "location": "Vallentuna SWE",
+    "sysopName": "Joacim Melin",
+    "INA": "deltacity.fsxnet.nz",
+    "IBN": "24556",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "131",
+    "nodeName": "Orbit BBS",
+    "location": "Opp USA",
+    "sysopName": "Allen Scofield",
+    "INA": "orbitbbs.ddns.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "132",
+    "nodeName": "Archaic Binary BBS",
+    "location": "Orlando USA",
+    "sysopName": "Wayne Smith",
+    "INA": "bbs.archaicbinary.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "133",
+    "nodeName": "8-Bit Classics BBS",
+    "location": "Wisconsin USA",
+    "sysopName": "Corey Koltz",
+    "INA": "bbs.8bitclassics.com",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "134",
+    "nodeName": "Troy's Den BBS",
+    "location": "Phoenix USA",
+    "sysopName": "Scott Miller",
+    "INA": "troybbs.com",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "135",
+    "nodeName": "Omicron Theta Mail System",
+    "location": "Southaven USA",
+    "sysopName": "Robert Wolfe",
+    "INA": "winserver.org",
+    "IBN": "null",
+    "ITN": "2300"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "136",
+    "nodeName": "Omicron Theta BBS",
+    "location": "Southaven USA",
+    "sysopName": "Robert Wolfe",
+    "INA": "winserver.org",
+    "IBN": "24556",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "137",
+    "nodeName": "Tsali's BBS",
+    "location": "Louisville USA",
+    "sysopName": "James Washington",
+    "INA": "tsali.ddns.net",
+    "IBN": "null",
+    "ITN": "9023"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "138",
+    "nodeName": "Palantir BBS",
+    "location": "Pensacola USA",
+    "sysopName": "Dan Clough",
+    "INA": "palantirbbs.ddns.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "139",
+    "nodeName": "Gryphus BBS",
+    "location": "Nowra AUS",
+    "sysopName": "Stephen Arnold",
+    "INA": "gryphus.vk2sja.org",
+    "IBN": "null",
+    "ITN": "5632"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "140",
+    "nodeName": "Subcarrier BBS",
+    "location": "Ottawa CAN",
+    "sysopName": "John McCoy",
+    "INA": "subcarrier.ignorelist.com",
+    "IBN": "null",
+    "ITN": "2323"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "141",
+    "nodeName": "SiliconUnderground BBS",
+    "location": "Rochester USA",
+    "sysopName": "Jason Bock",
+    "INA": "siliconu.fsxnet.nz",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "142",
+    "nodeName": "Shakey BBS",
+    "location": "Allen USA",
+    "sysopName": "Von Wallace",
+    "INA": "shakeybbs.com",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "144",
+    "nodeName": "Outremer BBS",
+    "location": "Vancouver CAN",
+    "sysopName": "Pieter Bakker",
+    "INA": "outremer.fsxnet.nz",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "145",
+    "nodeName": "Mike's Mansion BBS",
+    "location": "Portland USA",
+    "sysopName": "Michael Pierce",
+    "INA": "mansion.dynv6.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "146",
+    "nodeName": "Two Dudes BBS",
+    "location": "Grand Rapids USA",
+    "sysopName": "Peter Spalding",
+    "INA": "twodudesbbs.fsxnet.nz",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "147",
+    "nodeName": "ACME BBS",
+    "location": "Albany USA",
+    "sysopName": "Don Lowery",
+    "INA": "acmebbs.ddns.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "148",
+    "nodeName": "Mystic Island BBS",
+    "location": "Fountain Valley USA",
+    "sysopName": "Mickey Frklic",
+    "INA": "mysticisland.strangled.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "151",
+    "nodeName": "Dock Sud BBS",
+    "location": "Dock Sud ARG",
+    "sysopName": "Fernando Toledo",
+    "INA": "bbs.docksud.com.ar",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "152",
+    "nodeName": "UnderZaNet BBS",
+    "location": "London GBR",
+    "sysopName": "Jan Henkins",
+    "INA": "bbs.under.za.net",
+    "IBN": "24555",
+    "ITN": "2024"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "153",
+    "nodeName": "t311net BBS",
+    "location": "Ontario CAN",
+    "sysopName": "Rex Gibson",
+    "INA": "t311net.fsxnet.nz",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "154",
+    "nodeName": "Danger Bay BBS",
+    "location": "Vancouver CAN",
+    "sysopName": "Tom Swartz",
+    "INA": "dangerbaybbs.dyndns.org",
+    "IBN": "null",
+    "ITN": "1337"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "155",
+    "nodeName": "The Amiga Frontier BBS",
+    "location": "Akron USA",
+    "sysopName": "Charles Stephenson",
+    "INA": "frontierbbs.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "156",
+    "nodeName": "CJ's Place BBS",
+    "location": "Orange City USA",
+    "sysopName": "Chris Johnson",
+    "INA": "cjsplace.thruhere.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "157",
+    "nodeName": "SBBS BBS",
+    "location": "St Louis USA",
+    "sysopName": "Phillip Taylor",
+    "INA": "mystic.dynu.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "158",
+    "nodeName": "Segfault BBS",
+    "location": "Canyon USA",
+    "sysopName": "Larry Wyble",
+    "INA": "segfault.hopto.org",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "159",
+    "nodeName": "SBB Systems BBS",
+    "location": "London GBR",
+    "sysopName": "Frans King",
+    "INA": "bbs.sbbsystems.com",
+    "IBN": "54554",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "160",
+    "nodeName": "DarkAges BBS",
+    "location": "Wayne USA",
+    "sysopName": "Randy Henderson",
+    "INA": "darkagesbbs.com",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "161",
+    "nodeName": "DaRK Games BBS",
+    "location": "Kannapolis USA",
+    "sysopName": "Arturo Busleiman",
+    "INA": "darkgame.buanzo.org",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "162",
+    "nodeName": "The FreeSpeak BBS",
+    "location": "Pittsburgh USA",
+    "sysopName": "Gary Ailes",
+    "INA": "freespeak.hopto.org",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "163",
+    "nodeName": "XM Core BBS",
+    "location": "Dallas USA",
+    "sysopName": "Dwight Spencer",
+    "INA": "bbs.dapla.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "164",
+    "nodeName": "Dragonstalon BBS",
+    "location": "Whiteville USA",
+    "sysopName": "Lee Staley",
+    "INA": "dtalon.ddns.net",
+    "IBN": "null",
+    "ITN": "8088"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "165",
+    "nodeName": "LoFi BBS",
+    "location": "Ottawa CAN",
+    "sysopName": "Matt Gibson",
+    "INA": "lofi.ooo",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "166",
+    "nodeName": "Dark Carnival BBS",
+    "location": "LaGrange USA",
+    "sysopName": "Richard Matthews",
+    "INA": "bbs.darkcarnival.org",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "167",
+    "nodeName": "ITBNET BBS",
+    "location": "Rome ITA",
+    "sysopName": "Pasquale Monti",
+    "INA": "bbs.itbnet.eu",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "168",
+    "nodeName": "Conxtor BBS",
+    "location": "Cartama ESP",
+    "sysopName": "Volker Kerkhoff",
+    "INA": "conxtor.fsxnet.nz",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "2",
+    "node": "169",
+    "nodeName": "Jebula BBS",
+    "location": "Espoo FIN",
+    "sysopName": "Jesse Maenpaa",
+    "INA": "bbs.jebu.la",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "3",
+    "node": "100",
+    "nodeName": "Mutura HUB/Linucus BBS",
+    "location": "Parkdale AUS",
+    "sysopName": "Deon George",
+    "INA": "alterant.leenooks.net",
+    "IBN": "null",
+    "ITN": "60177"
+}{
+    "zone": "21",
+    "network": "3",
+    "node": "101",
+    "nodeName": "The Lower Planes BBS",
+    "location": "Melbourne AUS",
+    "sysopName": "Anthony Adverse",
+    "INA": "tlp.zapto.org",
+    "IBN": "null",
+    "ITN": "119"
+}{
+    "zone": "21",
+    "network": "3",
+    "node": "103",
+    "nodeName": "The Alien Mindbenders BBS",
+    "location": "Rochfortbridge IRL",
+    "sysopName": "Martin List-Petersen",
+    "INA": "the.alienmindbenders.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "3",
+    "node": "104",
+    "nodeName": "Brain Storm BBS",
+    "location": "Recife BRA",
+    "sysopName": "Ioram Sette",
+    "INA": "bsbbs.com.br",
+    "IBN": "null",
+    "ITN": "24555"
+}{
+    "zone": "21",
+    "network": "3",
+    "node": "105",
+    "nodeName": "The Lab BBS",
+    "location": "Dickson USA",
+    "sysopName": "Les Wade",
+    "INA": "bbs.dicksonlabs.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "3",
+    "node": "106",
+    "nodeName": "Neuroflux BBS",
+    "location": "Boise USA",
+    "sysopName": "Sam Evans",
+    "INA": "bbs.neuroflux.online",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "3",
+    "node": "107",
+    "nodeName": "Arcadia BBS",
+    "location": "Putnam USA",
+    "sysopName": "Michael Pedersen",
+    "INA": "telnet.arcadiabbs.com",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "3",
+    "node": "108",
+    "nodeName": "Buckeye Telegraph",
+    "location": "Buckeye USA",
+    "sysopName": "Dean Galloway",
+    "INA": "mailer.buckeyetelegraph.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "3",
+    "node": "109",
+    "nodeName": "Manic Modem BBS",
+    "location": "Union USA",
+    "sysopName": "John Cameron",
+    "INA": "binkp.manic-modem.com",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "3",
+    "node": "110",
+    "nodeName": "Northern Realms BBS",
+    "location": "Binbrook CAN",
+    "sysopName": "Jay Harris",
+    "INA": "bbs.nrbbs.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "3",
+    "node": "111",
+    "nodeName": "The Unknown Realm BBS",
+    "location": "Oshawa CAN",
+    "sysopName": "Mike McCafferty",
+    "INA": "turealm.no-ip.org",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "3",
+    "node": "112",
+    "nodeName": "Flee the Planet BBS",
+    "location": "Sacramento USA",
+    "sysopName": "Fang Castro",
+    "INA": "flee.fsxnet.nz",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "3",
+    "node": "113",
+    "nodeName": "Pweck's Retreat BBS",
+    "location": "Omaha USA",
+    "sysopName": "Dean Lodge",
+    "INA": "bbs.pweck.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "100",
+    "nodeName": "Niba HUB",
+    "location": "Rio Rancho USA",
+    "sysopName": "Dan Richter",
+    "INA": "bbs.castlerockbbs.com",
+    "IBN": "24560",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "101",
+    "nodeName": "Back to the Future BBS",
+    "location": "Pennsylvania USA",
+    "sysopName": "Bill Simon",
+    "INA": "bttfbbs.com",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "102",
+    "nodeName": "Before the Web BBS",
+    "location": "Huntsville USA",
+    "sysopName": "Dallas Vinson",
+    "INA": "furmenservices.net",
+    "IBN": "24551",
+    "ITN": "23232"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "104",
+    "nodeName": "Herbies BBS II",
+    "location": "Weil am Rhein GER",
+    "sysopName": "Thorsten Herb",
+    "INA": "herbies-bbs.ddns.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "105",
+    "nodeName": "Phoenix BBS",
+    "location": "Pawcatuck USA",
+    "sysopName": "Andrew Leary",
+    "INA": "phoenix.bnbbbs.net",
+    "IBN": "24555",
+    "ITN": "2323"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "106",
+    "nodeName": "The Rusty Mailbox BBS",
+    "location": "Penticton CAN",
+    "sysopName": "Alan Ianson",
+    "INA": "trmb.ca",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "107",
+    "nodeName": "Centaurus BBS",
+    "location": "Drome FRA",
+    "sysopName": "Stephen Berard",
+    "INA": "centaurus.ventouxlabs.com",
+    "IBN": "null",
+    "ITN": "2323"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "108",
+    "nodeName": "Psychosis BBS",
+    "location": "Cumming USA",
+    "sysopName": "Terry Rankin",
+    "INA": "psychosisbbs.ddns.net",
+    "IBN": "null",
+    "ITN": "2323"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "109",
+    "nodeName": "9640 News BBS",
+    "location": "Campbellsburg USA",
+    "sysopName": "Beery Miller",
+    "INA": "9640news.ddns.net",
+    "IBN": "null",
+    "ITN": "9640"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "110",
+    "nodeName": "BZ&BZ BBS",
+    "location": "New Port Richey USA",
+    "sysopName": "Steve Thielemann",
+    "INA": "bbs.red-green.com",
+    "IBN": "null",
+    "ITN": "4023"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "111",
+    "nodeName": "Blue Northen Software BBS",
+    "location": "Bellevue USA",
+    "sysopName": "Dave Eidson",
+    "INA": "bnsbbs.ddns.net",
+    "IBN": "null",
+    "ITN": "23000"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "112",
+    "nodeName": "Sloane BBS",
+    "location": "Atlanta USA",
+    "sysopName": "Steve Smith",
+    "INA": "sloanebbs.com",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "113",
+    "nodeName": "Digital Wurmhole BBS",
+    "location": "London CAN",
+    "sysopName": "Blair Lovell",
+    "INA": "digitalwurmhole.ddns.net",
+    "IBN": "24556",
+    "ITN": "2323"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "114",
+    "nodeName": "PlaneT Afr0 BBS",
+    "location": "Virgina Beach USA",
+    "sysopName": "Jason Tefft",
+    "INA": "cetialphafive.com",
+    "IBN": "54554",
+    "ITN": "8888"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "115",
+    "nodeName": "Phaseshift BBS",
+    "location": "Vancouver CAN",
+    "sysopName": "Kevin Pausche",
+    "INA": "phased.port0.org",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "116",
+    "nodeName": "Intermail Support",
+    "location": "Chicago USA",
+    "sysopName": "Dale Barnes",
+    "INA": "im.ifidonet.com",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "117",
+    "nodeName": "Brainsuxx.inc BBS",
+    "location": "Beelitz GER",
+    "sysopName": "Michael Braun",
+    "INA": "brainsuxxinc.ddns.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "119",
+    "nodeName": "After Hours BBS",
+    "location": "Lady Lake USA",
+    "sysopName": "Greg Youngblood",
+    "INA": "afterhours-bbs.com",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "121",
+    "nodeName": "AlcaBBS",
+    "location": "Apeldoorn NLD",
+    "sysopName": "Michael Trip",
+    "INA": "bbs.alcatrash.org",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "122",
+    "nodeName": "realitycheckBBS",
+    "location": "Aptos USA",
+    "sysopName": "Kurt Weiske",
+    "INA": "realitycheckbbs.org",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "123",
+    "nodeName": "Humongous BBS",
+    "location": "Chiayi TWN",
+    "sysopName": "Nathanel Culver",
+    "INA": "jenandcal.familyds.org",
+    "IBN": "null",
+    "ITN": "2323"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "124",
+    "nodeName": "The Dungeon BBS",
+    "location": "Canberra AUS",
+    "sysopName": "Keith Matthews",
+    "INA": "dungeon.barnabasmusic.com",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "125",
+    "nodeName": "Veleno BBS",
+    "location": "Rovereto ITA",
+    "sysopName": "Thomas Bampi",
+    "INA": "velenobbs.ddns.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "126",
+    "nodeName": "Another F-ing BBS",
+    "location": "CasaGrande USA",
+    "sysopName": "Gary Crunk",
+    "INA": "anotherbbs.dynu.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "128",
+    "nodeName": "DragonsWeb Labs BBS",
+    "location": "Pembroke USA",
+    "sysopName": "James DiGriz",
+    "INA": "bbs.dragonsweb.org",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "129",
+    "nodeName": "Syrinx BBS",
+    "location": "Norwich USA",
+    "sysopName": "Marc Carrano",
+    "INA": "bbs.syrinxbbx.com",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "131",
+    "nodeName": "The Wrong Number [] BBS",
+    "location": "Yorktown Heights USA",
+    "sysopName": "Al DeRosa",
+    "INA": "wn2.duckdns.org",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "133",
+    "nodeName": "Fading Black BBS",
+    "location": "Hamilton CAN",
+    "sysopName": "Will Smith",
+    "INA": "fadingblack.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "134",
+    "nodeName": "Possum Lodge South BBS",
+    "location": "Frankfort USA",
+    "sysopName": "Mike Powell",
+    "INA": "possumso.fsxnet.nz",
+    "IBN": "24555",
+    "ITN": "7636"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "135",
+    "nodeName": "Veteran BBS",
+    "location": "Clanton USA",
+    "sysopName": "Mike Welborn",
+    "INA": "vetbbs.fsxnet.nz",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "136",
+    "nodeName": "Total Lost BBS",
+    "location": "Harnosand SWE",
+    "sysopName": "Dennis Eklund",
+    "INA": "bbs.deek.se",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "137",
+    "nodeName": "8 Bit Boyz BBS",
+    "location": "Rio Rancho USA",
+    "sysopName": "Shane O'Neill",
+    "INA": "8bitboyz.bbs.io",
+    "IBN": "null",
+    "ITN": "6502"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "138",
+    "nodeName": "CIA Amiga BBS",
+    "location": "Mayflower USA",
+    "sysopName": "Tim Grooms",
+    "INA": "ciaamigabbs.dynu.net",
+    "IBN": "null",
+    "ITN": "6400"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "139",
+    "nodeName": "DigiSoft BBS",
+    "location": "Norrk??ping SWE",
+    "sysopName": "Peter H??rje",
+    "INA": "mm2.se",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "141",
+    "nodeName": "Retro Underground BBS",
+    "location": "Edmonds USA",
+    "sysopName": "John Rumpelein",
+    "INA": "retrounderground.org",
+    "IBN": "null",
+    "ITN": "1337"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "143",
+    "nodeName": "Eggy BBS",
+    "location": "Chicago USA",
+    "sysopName": "Matt Richards",
+    "INA": "eggy.fsxnet.nz",
+    "IBN": "null",
+    "ITN": "2300"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "144",
+    "nodeName": "Sonic BBS",
+    "location": "Beverley GBR",
+    "sysopName": "Louis Northmore",
+    "INA": "sonicbbs.ddns.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "145",
+    "nodeName": "Fireball Express BBS",
+    "location": "Amarillo USA",
+    "sysopName": "Jay Talbot",
+    "INA": "mystic.fireballex.com",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "146",
+    "nodeName": "The Dragon's Gate BBS",
+    "location": "La Junta USA",
+    "sysopName": "Cory Daehn",
+    "INA": "bbs.mayorlormar.com",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "147",
+    "nodeName": "Aliens' Alcove BBS",
+    "location": "Taguig City PHL",
+    "sysopName": "Eric Pareja",
+    "INA": "aliens.free.net.ph",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "148",
+    "nodeName": "Gateway to the West BBS",
+    "location": "St Peters USA",
+    "sysopName": "Robert Stinnett",
+    "INA": "bbs.homelabber.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "150",
+    "nodeName": "VA7AQD's Tavern BBS",
+    "location": "Kamloops CAN",
+    "sysopName": "Adam Clark",
+    "INA": "bbs.isurf.ca",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "151",
+    "nodeName": "Thunder-Storm BBS",
+    "location": "Totonto CAN",
+    "sysopName": "Darryl Wood",
+    "INA": "thunder-storm.ca",
+    "IBN": "null",
+    "ITN": "10023"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "152",
+    "nodeName": "Blackfair's Manor BBS",
+    "location": "Lancaster USA",
+    "sysopName": "Keith Cunningham",
+    "INA": "blackf.synchro.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "153",
+    "nodeName": "ARDA BBS",
+    "location": "Delaware USA",
+    "sysopName": "Tim Woodland",
+    "INA": "arda-bbs.com",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "154",
+    "nodeName": "Diskshop BBS",
+    "location": "Toronto CAN",
+    "sysopName": "Frank Linhares",
+    "INA": "bbs.diskshop.ca",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "155",
+    "nodeName": "Flower BBS",
+    "location": "Osborne Park AUS",
+    "sysopName": "Troy Marchant",
+    "INA": "flower.sytes.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "156",
+    "nodeName": "The Rock BBS III",
+    "location": "Goshen USA",
+    "sysopName": "Michael Batts",
+    "INA": "therockbbs.net",
+    "IBN": "null",
+    "ITN": "10023"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "157",
+    "nodeName": "LostCause Halfway House",
+    "location": "Alden USA",
+    "sysopName": "Ernest Gainey",
+    "INA": "bbs.lostcause.house",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "158",
+    "nodeName": "Card & Claw BBS",
+    "location": "Berkely USA",
+    "sysopName": "Robbie Whiting",
+    "INA": "cardandclaw.servebbs.com",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "159",
+    "nodeName": "RetroDevOps BBS",
+    "location": "Brisbane AUS",
+    "sysopName": "Todd Whitehead",
+    "INA": "bbs.retrodevops.com",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "160",
+    "nodeName": "Brotherhood of Groovyness BBS",
+    "location": "Sioux City USA",
+    "sysopName": "John Porterfield",
+    "INA": "b-o-g.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "161",
+    "nodeName": "Gerlach BBS",
+    "location": "Zvolen SVK",
+    "sysopName": "Dominik Madarasz",
+    "INA": "bbs.madaraszd.net",
+    "IBN": "null",
+    "ITN": "4321"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "164",
+    "nodeName": "FuSiON BBS",
+    "location": "Deer Park USA",
+    "sysopName": "Chris Schneider",
+    "INA": "fusion.zapto.org",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "165",
+    "nodeName": "w0pr.win",
+    "location": "Sparta USA",
+    "sysopName": "Richard Swartz",
+    "INA": "w0pr.win",
+    "IBN": "null",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "166",
+    "nodeName": "Black Lodge Research BBS",
+    "location": "Seattle USA",
+    "sysopName": "Emory Balmer",
+    "INA": "blacklodge.fsxnet.nz",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "167",
+    "nodeName": "The Vault BBS",
+    "location": "Buenos Aires ARG",
+    "sysopName": "Rodrigo Pelaez",
+    "INA": "thevaultbbs.fsxnet.nz",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "168",
+    "nodeName": "Dales BBS",
+    "location": "Norfolk GBR",
+    "sysopName": "Dale Cousins",
+    "INA": "dalesbbs.fsxnet.nz",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "169",
+    "nodeName": "What the Dormouse Said BBS",
+    "location": "Springfield USA",
+    "sysopName": "Greg Zoll",
+    "INA": "whatthed.synchro.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "170",
+    "nodeName": "Hispania BBS",
+    "location": "Milton Keynes GBR",
+    "sysopName": "Efraim Sanchez Gil",
+    "INA": "hispaniabbs.ddns.net",
+    "IBN": "24560",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "171",
+    "nodeName": "Star Frontiers BBS",
+    "location": "Huntsville USA",
+    "sysopName": "William Williams",
+    "INA": "starfron.synchronetbbs.org",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "172",
+    "nodeName": "Dark Forces BBS",
+    "location": "Warminster USA",
+    "sysopName": "Mark Iezzi",
+    "INA": "darkforcesbbs.dyndns.org",
+    "IBN": "24558",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "173",
+    "nodeName": "KN6Q BBS",
+    "location": "Azle USA",
+    "sysopName": "Tom Kisner",
+    "INA": "bbs.kn6q.org",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "4",
+    "node": "174",
+    "nodeName": "Mirrored Lands BBS",
+    "location": "Manchester USA",
+    "sysopName": "Chris Lagonick-Weitzel",
+    "INA": "mirroredlands.ddns.net",
+    "IBN": "IBN",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "5",
+    "node": "100",
+    "nodeName": "Omicron HUB/WildCat Prison BBS",
+    "location": "Mesquite USA",
+    "sysopName": "Ruben Figueroa",
+    "INA": "rdfig.net",
+    "IBN": "24555",
+    "ITN": "2324"
+}{
+    "zone": "21",
+    "network": "5",
+    "node": "101",
+    "nodeName": "The File Bank BBS",
+    "location": "Cairns AUS",
+    "sysopName": "Terry Roati",
+    "INA": "tfb-bbs.org",
+    "IBN": "null",
+    "ITN": "ITN"
+}{
+    "zone": "21",
+    "network": "5",
+    "node": "102",
+    "nodeName": "TAK Software BBS",
+    "location": "Murfreesboro USA",
+    "sysopName": "Thomas Kloos",
+    "INA": "bbs.taksoftware.com",
+    "IBN": "null",
+    "ITN": "null"
+}{
+    "zone": "21",
+    "network": "5",
+    "node": "103",
+    "nodeName": "The Computer Express",
+    "location": "Anoka USA",
+    "sysopName": "Chris Costakis",
+    "INA": "bbs.costakis.org",
+    "IBN": "null",
+    "ITN": "3141"
+}
